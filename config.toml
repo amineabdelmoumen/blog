@@ -7,7 +7,7 @@ pygmentsCodeFences = true
 pygmentsUseClasses = true
 
 [params]
-  author = "MeiK"
+  author = "Amine"
   description = "In calm places ,truth reveal."
   github = "amineabdelmoumen"
   twitter = "Amine abdelmoumen"
@@ -19,15 +19,15 @@ pygmentsUseClasses = true
   lastmod = true
   userStatusEmoji = "😀"
   favicon = "/images/github.png"
-  location = "China"
+  location = "Morocco"
 
   [[params.links]]
     title = "Link"
     href = "https://github.com/amineabdelmoumen"
   [[params.links]]
     title = "Link2"
-    href = "https://meik2333.com"
-    icon = "https://meik2333.com/images/avatar.png"
+    href = "https://abdelmoumen.com"
+    icon = "https://abdelmoumen/images/avatar.png"
 
 [frontmatter]
   lastmod = ["lastmod", ":fileModTime", ":default"]
